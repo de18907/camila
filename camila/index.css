@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background: black;
+}
+#vivi{
+    margin-left: 35%;
+    margin-top: 2%;
+}
+video {
+    display: none;
+    position: absolute;
+    height: 700px;
+}
+.visible{
+    position: absolute;
+    display: inline;
+    position: absolute;
+}
